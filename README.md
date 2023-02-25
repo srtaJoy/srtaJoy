@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/srtajoy/srtajoy/raw/main/assets/teste1.gif" alt="Oi, eu sou a Joy">
 </p>
 
