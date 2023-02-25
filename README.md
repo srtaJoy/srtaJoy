@@ -2,10 +2,6 @@
   <img src="https://github.com/srtajoy/srtajoy/raw/main/assets/header-github.gif" alt="Oi, eu sou a Joy">
 </p>
 
-
-<h1 align="center">Oi 👋, eu sou a Joyce</h1>
-<h3 align="center">Uma estudante de Engenharia da Computação, criativa e competitiva</h3>
-
 - 🔭 Atualmente estou estudando Data Science **com foco em Machine Learning e Python**
 
 - 💬 Me pergunte sobre: **tecnologia, ciência de dados, business intelligence, matemática, desing, etc. Ficarei feliz em ajudar!**
