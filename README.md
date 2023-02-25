@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/srtajoy/srtajoy/raw/main/assets/header-github.gif" alt="Oi, eu sou a Joy">
+  <img src="https://github.com/srtajoy/srtajoy/raw/main/assets/teste1.gif" alt="Oi, eu sou a Joy">
 </p>
 
 - 🔭 Atualmente estou estudando Data Science **com foco em Machine Learning e Python**
